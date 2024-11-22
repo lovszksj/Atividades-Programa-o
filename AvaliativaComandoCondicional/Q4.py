@@ -1,6 +1,6 @@
 # código feito por Jullyana Pessoa e João Victor Gomes
 
-# utilizamos o try e except para que caso o usuário digite algo sem ser um número, o programa não trave
+# utilizamos o try e except para que caso o usuário digite algo sem ser um número o programa não trave
 try:
     # pedimos para o usuário digitar o ano
     ano = int(input("Digite um ano: "))
