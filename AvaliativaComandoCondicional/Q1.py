@@ -10,8 +10,8 @@ try:
     altura = altura / 100
 
     # Aqui pegamos o valor do peso e dividimos ele pela altura ao quadrado e mostramos no print qual seria o IMC
-    imc = peso // altura**2
-    print("O seu IMC é: ", imc)
+    imc = peso / altura**2
+    print("O seu IMC é: ",round (imc, 1))
 
     # Como solicitado na questão, além de declararmos o valor do IMC também pede para falarmos do nível em qual o usuário está 
     # Começamos pelo o de menor valor e fomos aumentando até chegar ao 40 como pedido na questão, usando os comandos if de inicial e continuando com o elif
