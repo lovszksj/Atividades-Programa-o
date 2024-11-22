@@ -1,4 +1,4 @@
-#código feito por Jullyana Pessoa
+# código feito por Jullyana Pessoa e João Victor Gomes
 
 try:
     # Aqui pedi para que o usuário digitasse os valores de seu peso e de sua altura
