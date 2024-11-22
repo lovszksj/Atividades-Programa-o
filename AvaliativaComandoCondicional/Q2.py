@@ -1,4 +1,4 @@
-# código feito por Jullyana Pessoa
+# código feito por Jullyana Pessoa e João Victor Gomes
 try:
     n1 = float(input("Digite a nota da Unidade 1: "))
     n2 = float(input("Digie a nota da Unidade 2: "))
