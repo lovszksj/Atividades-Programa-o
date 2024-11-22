@@ -1,4 +1,4 @@
-# código feito por Jullyana Pessoa
+# código feito por Jullyana Pessoa e João Victor Gomes
 import random
 try:
     numero = random.randint(1, 100)
