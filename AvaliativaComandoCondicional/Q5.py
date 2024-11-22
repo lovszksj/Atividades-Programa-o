@@ -1,4 +1,4 @@
-# código feito por Jullyana Pessoa
+# código feito por Jullyana Pessoa e João Victor Gomes
 try:
     dia = int(input("Digite o dia: "))
     mes = int(input("Digite o mês: "))
