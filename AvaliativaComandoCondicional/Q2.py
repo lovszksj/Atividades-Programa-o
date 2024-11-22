@@ -27,7 +27,7 @@ try:
         mdf1 = (2*naf + 3*n2) / 5
         mdf2 = (2*n1 + 3*naf) / 5
         # caso o resultado dessas contas for maior ou igual a 60 o usuário está aprovado
-        if 60 <= mdf:
+        if mdf >= 60 or mdf1 >= 60 or mdf2 >= 60:
             print("Você está aprovado!")
         else: 
             # se não, reprovado
