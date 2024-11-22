@@ -1,4 +1,4 @@
-#codigo feito por Jullyana Pessoa
+# código feito por Jullyana Pessoa e João Victor Gomes
 try:
     ano = int(input("Digite um ano: "))
     
