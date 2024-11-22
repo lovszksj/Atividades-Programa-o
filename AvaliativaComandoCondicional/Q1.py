@@ -1,5 +1,6 @@
 # código feito por Jullyana Pessoa e João Victor Gomes
 
+# utilizamos o try e except para que caso o usuário digite algo sem ser um número o programa, não trave
 try:
     # Aqui pedimos para que o usuário digitasse os valores de seu peso e de sua altura
     peso = float(input("Digite o seu peso em kg: "))
