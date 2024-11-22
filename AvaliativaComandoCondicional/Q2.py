@@ -14,7 +14,7 @@ try:
         print("Você está reprovado!")
 
     # maior ou igual a 60 o usuário está aprovado
-    elif 60 <= md: 
+    elif md >= 60: 
         print ("Você está aprovado!") 
 
     # igual ou maior que 20 e menor que 60, o usuário irá para a última avaliação
