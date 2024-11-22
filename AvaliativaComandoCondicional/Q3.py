@@ -1,7 +1,8 @@
 # código feito por Jullyana Pessoa e João Victor Gomes
+
 # como liberado na questão, importamos a função random para sempre gerar um número aleatório
 import random
-
+# utilizamos o try e except para que caso o usuário digite algo sem ser um número, o programa não trave
 try:
     # declaramos a variável com a importação do random.randint, que sempre irá sortear um número de 1 a 100
     numero = random.randint(1, 100)
