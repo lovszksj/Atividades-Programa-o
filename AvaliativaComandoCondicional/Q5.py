@@ -34,6 +34,7 @@ try:
         # igual a conta anterior, só que para esses meses terem até 31 dias
         elif mes == 1 or mes == 3 or mes == 5 or mes == 7 or mes == 8 or mes == 10 or mes == 12: 
             dia < 1 or dia > 31 
+            valido = false
             if dia == 30: 
                 valido
         else:
